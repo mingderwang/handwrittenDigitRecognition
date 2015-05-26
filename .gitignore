@@ -1,2 +1,10 @@
+# Mac
+.DS_Store
+
+# go test coverprofiles
+*.coverprofile
+
+# local
+
 data/
 handwrittenDigitRecognition
