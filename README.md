@@ -2,10 +2,13 @@
 
 refer to https://www.packtpub.com/books/content/performing-hand-written-digit-recognition-golearn
 
-# data set 
+# datasets
+```
+mkdir data; cd data
 wget https://raw.githubusercontent.com/albrow/golearn-digit-recognition/master/data/mnist_train.csv
 wget https://raw.githubusercontent.com/albrow/golearn-digit-recognition/master/data/mnist_test.csv
 
+```
 # run 
 ```
 go get
