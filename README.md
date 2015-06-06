@@ -7,9 +7,9 @@ wget https://raw.githubusercontent.com/albrow/golearn-digit-recognition/master/d
 wget https://raw.githubusercontent.com/albrow/golearn-digit-recognition/master/data/mnist_test.csv
 
 # run 
-
+```
 go get
-go build
+go build 
 ./handwrittenDigitRecognition
 
-
+```
