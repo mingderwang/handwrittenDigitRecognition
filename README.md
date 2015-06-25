@@ -4,7 +4,7 @@ refer to https://www.packtpub.com/books/content/performing-hand-written-digit-re
 
 # datasets
 ```
-mkdir data; cd data
+mkdir data; cd $_
 wget https://raw.githubusercontent.com/albrow/golearn-digit-recognition/master/data/mnist_train.csv
 wget https://raw.githubusercontent.com/albrow/golearn-digit-recognition/master/data/mnist_test.csv
 
